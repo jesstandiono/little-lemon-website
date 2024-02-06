@@ -5,7 +5,9 @@ const ConfirmedBooking = () => {
         <div className='confirm'>
             <div>
                 <h1>Booking has been confirmed!</h1>
-            </div>
+                <p>A booking confirmation has been sent to your email.</p>
+                <p>Do let us know if there are any changes to your booking.</p>
+           </div>
         </div>
     );
 };
